@@ -1,0 +1,6 @@
+7        Ronaldo         Madrid         Zidane
+10          Messi      Barcelona            Pep
+0                                             
+8          Fahad         Madrid         Zidane
+12             12             12             12
+1          fahad              1           fada
